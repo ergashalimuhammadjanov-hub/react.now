@@ -15,7 +15,7 @@ function App() {
               <button>Discuss for Projects</button>
             </h1>
           </div>
-          <img src="./public/imgs/heroimgs.png" alt="" />
+          <img src="/imgs/heroimgs.png" alt="" />
         </div>
 
       </div>
@@ -28,29 +28,29 @@ function App() {
           <div className="cards">
             <div className="box">
               <div className="rasim">
-                <img className='rasim1' src="./public/imgs/mark_email_unread.svg" alt=""></img>
-                <img className='rasim2' src="./public/imgs/Subtract.svg" alt=""></img>
+                <img className='rasim1' src="/imgs/mark_email_unread.svg" alt=""></img>
+                <img className='rasim2' src="/imgs/Subtract.svg" alt=""></img>
               </div>
               <h2>Email marketing</h2>
-              <img className='chiziq' src="./public/imgs/chiziq.svg" alt="" />
+              <img className='chiziq' src="/imgs/chiziq.svg" alt="" />
               <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
             </div>
             <div className="box">
               <div className="rasim">
-                <img className='rasim1' src="./public/imgs/quti.svg" alt=""></img>
-                <img className='rasim2' src="./public/imgs/Subtract.svg" alt=""></img>
+                <img className='rasim1' src="/imgs/quti.svg" alt=""></img>
+                <img className='rasim2' src="/imgs/Subtract.svg" alt=""></img>
               </div>
               <h2>Market analysis</h2>
-              <img className='chiziq' src="./public/imgs/chiziq.svg" alt="" />
+              <img className='chiziq' src="/imgs/chiziq.svg" alt="" />
               <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
             </div>
             <div className="box">
               <div className="rasim">
-                <img className='rasim1' src="./public/imgs/query_stats.svg" alt=""></img>
-                <img className='rasim2' src="./public/imgs/Subtract.svg" alt=""></img>
+                <img className='rasim1' src="/imgs/query_stats.svg" alt=""></img>
+                <img className='rasim2' src="/imgs/Subtract.svg" alt=""></img>
               </div>
               <h2>Keyword research</h2>
-              <img className='chiziq' src="./public/imgs/chiziq.svg" alt="" />
+              <img className='chiziq' src="/imgs/chiziq.svg" alt="" />
               <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
             </div>
           </div>
@@ -62,44 +62,44 @@ function App() {
           <div className="triangle">
             <div className="uchburchaklar1">
               <div className="uchburchak1">
-                <img className='aylana' src="./public/imgs/Rectangle 57.svg" alt="" />
-                <img className='uchburchak' src="./public/imgs/Rectangle 56.svg" alt="" />
+                <img className='aylana' src="/imgs/Rectangle 57.svg" alt="" />
+                <img className='uchburchak' src="/imgs/Rectangle 56.svg" alt="" />
                 <h2>Empathize</h2>
-                <img className='past1' src="./public/imgs/past.svg" alt="" />
+                <img className='past1' src="/imgs/past.svg" alt="" />
               </div>
               <div className="uchburchak1">
-                <img className='aylana' src="./public/imgs/Rectangle 57.svg" alt="" />
-                <img className='uchburchak' src="./public/imgs/Rectangle 56.svg" alt="" />
+                <img className='aylana' src="/imgs/Rectangle 57.svg" alt="" />
+                <img className='uchburchak' src="/imgs/Rectangle 56.svg" alt="" />
                 <h2>Ideate</h2>
-                <img className='tepa1' src="./public/imgs/tepa.svg" alt="" />
+                <img className='tepa1' src="/imgs/tepa.svg" alt="" />
 
               </div>
               <div className="uchburchak1">
-                <img className='aylana' src="./public/imgs/Rectangle 57.svg" alt="" />
-                <img className='uchburchak' src="./public/imgs/Rectangle 56.svg" alt="" />
+                <img className='aylana' src="/imgs/Rectangle 57.svg" alt="" />
+                <img className='uchburchak' src="/imgs/Rectangle 56.svg" alt="" />
                 <h2>Qualitative</h2>
-                <img className='past2' src="./public/imgs/past.svg" alt="" />
+                <img className='past2' src="/imgs/past.svg" alt="" />
               </div>
             </div>
 
 
             <div className="uchburchaklar2">
               <div className="uchburchak1">
-                <img className='aylana' src="./public/imgs/Rectangle 57.svg" alt="" />
-                <img className='uchburchak' src="./public/imgs/Rectangle 56.svg" alt="" />
+                <img className='aylana' src="/imgs/Rectangle 57.svg" alt="" />
+                <img className='uchburchak' src="/imgs/Rectangle 56.svg" alt="" />
                 <h2>Define</h2>
-                <img className='tepa2' src="./public/imgs/tepa.svg" alt="" />
+                <img className='tepa2' src="/imgs/tepa.svg" alt="" />
 
               </div>
               <div className="uchburchak1">
-                <img className='aylana' src="./public/imgs/Rectangle 57.svg" alt="" />
-                <img className='uchburchak' src="./public/imgs/Rectangle 56.svg" alt="" />
+                <img className='aylana' src="/imgs/Rectangle 57.svg" alt="" />
+                <img className='uchburchak' src="/imgs/Rectangle 56.svg" alt="" />
                 <h2>Prototype</h2>
-                <img className='past3' src="./public/imgs/past.svg" alt="" />
+                <img className='past3' src="/imgs/past.svg" alt="" />
               </div>
               <div className="uchburchak1">
-                <img className='aylana' src="./public/imgs/Rectangle 57.svg" alt="" />
-                <img className='uchburchak' src="./public/imgs/Rectangle 56.svg" alt="" />
+                <img className='aylana' src="/imgs/Rectangle 57.svg" alt="" />
+                <img className='uchburchak' src="/imgs/Rectangle 56.svg" alt="" />
                 <h2>Quantitative</h2>
               </div>
             </div>
@@ -112,46 +112,46 @@ function App() {
           <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</p>
           <div className="cards">
             <div className="card">
-              <img className='teparasim' src="./public/imgs/Group 47450.svg" alt="" />
+              <img className='teparasim' src="/imgs/Group 47450.svg" alt="" />
               <h2>Digital branding</h2>
-              <img src="./public/imgs/chiziq.svg" alt="" />
+              <img src="/imgs/chiziq.svg" alt="" />
               <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</p>
-              <button>Discuss for Projects <img src="./public/imgs/Arrow 7.svg" alt="" /></button>
+              <button>Discuss for Projects <img src="/imgs/Arrow 7.svg" alt="" /></button>
             </div>
             <div className="card">
-              <img className='teparasim' src="./public/imgs/r1.svg" alt="" />
+              <img className='teparasim' src="/imgs/r1.svg" alt="" />
               <h2>Creative solutions</h2>
-              <img src="./public/imgs/chiziq.svg" alt="" />
+              <img src="/imgs/chiziq.svg" alt="" />
               <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</p>
-              <button>Discuss for Projects <img src="./public/imgs/Arrow 7.svg" alt="" /></button>
+              <button>Discuss for Projects <img src="/imgs/Arrow 7.svg" alt="" /></button>
             </div>
             <div className="card">
-              <img className='teparasim' src="./public/imgs/r2.svg" alt="" />
+              <img className='teparasim' src="/imgs/r2.svg" alt="" />
               <h2>Marketing solutions</h2>
-              <img src="./public/imgs/chiziq.svg" alt="" />
+              <img src="/imgs/chiziq.svg" alt="" />
               <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</p>
-              <button>Discuss for Projects <img src="./public/imgs/Arrow 7.svg" alt="" /></button>
+              <button>Discuss for Projects <img src="/imgs/Arrow 7.svg" alt="" /></button>
             </div>
             <div className="card">
-              <img className='teparasim' src="./public/imgs/r3.svg" alt="" />
+              <img className='teparasim' src="/imgs/r3.svg" alt="" />
               <h2>Business analytics</h2>
-              <img src="./public/imgs/chiziq.svg" alt="" />
+              <img src="/imgs/chiziq.svg" alt="" />
               <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</p>
-              <button>Discuss for Projects <img src="./public/imgs/Arrow 7.svg" alt="" /></button>
+              <button>Discuss for Projects <img src="/imgs/Arrow 7.svg" alt="" /></button>
             </div>
             <div className="card">
-              <img className='teparasim' src="./public/imgs/r4.svg" alt="" />
+              <img className='teparasim' src="/imgs/r4.svg" alt="" />
               <h2>UI & UX Design</h2>
-              <img src="./public/imgs/chiziq.svg" alt="" />
+              <img src="/imgs/chiziq.svg" alt="" />
               <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</p>
-              <button>Discuss for Projects <img src="./public/imgs/Arrow 7.svg" alt="" /></button>
+              <button>Discuss for Projects <img src="/imgs/Arrow 7.svg" alt="" /></button>
             </div>
             <div className="card">
-              <img className='teparasim' src="./public/imgs/r5.svg" alt="" />
+              <img className='teparasim' src="/imgs/r5.svg" alt="" />
               <h2>Photography</h2>
-              <img src="./public/imgs/chiziq.svg" alt="" />
+              <img src="/imgs/chiziq.svg" alt="" />
               <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</p>
-              <button>Discuss for Projects <img src="./public/imgs/Arrow 7.svg" alt="" /></button>
+              <button>Discuss for Projects <img src="/imgs/Arrow 7.svg" alt="" /></button>
             </div>
           </div>
         </section>
